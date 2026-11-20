@@ -1,0 +1,16 @@
+{
+  "name": "rustlite",
+  "displayName": "RustLite",
+  "version": "1.1.0",
+  "description": "Plan crafting resources, recycler yields and raid routes for the video game Rust. Four free calculators with a compact result card and links to the matching RustLite pages. No account is required.",
+  "author": {"name": "RustLite", "email": "admin@rustlite.com", "url": "https://rustlite.com"},
+  "homepage": "https://rustlite.com/claude",
+  "repository": "https://github.com/tarttee/rustlite-claude-plugin",
+  "license": "MIT",
+  "keywords": ["rust", "gaming", "crafting", "recycling", "raid-planning"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://rustlite.com/claude",
+  "supportUrl": "https://rustlite.com/claude/support",
+  "privacyPolicyUrl": "https://rustlite.com/claude/privacy",
+  "termsOfServiceUrl": "https://rustlite.com/terms"
+}

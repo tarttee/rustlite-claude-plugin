@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "rustlite": {"type": "http", "url": "https://api.rustlite.com/mcp"}
+  }
+}

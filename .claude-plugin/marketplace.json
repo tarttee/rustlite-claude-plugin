@@ -1,0 +1,14 @@
+{
+  "name": "rustlite",
+  "owner": {"name": "RustLite", "email": "admin@rustlite.com"},
+  "metadata": {"description": "RustLite calculators for the video game Rust."},
+  "plugins": [
+    {
+      "name": "rustlite",
+      "source": "./",
+      "description": "Plan crafting resources, recycler yields and raid routes for the video game Rust.",
+      "version": "1.1.0",
+      "category": "entertainment"
+    }
+  ]
+}
